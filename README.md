@@ -4,4 +4,5 @@
 - Flore de Lasteyrie,
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
-- Corentin Égelé.
+- Guillaume LECOMTE,
+- Corentin ÉGELÉ.
