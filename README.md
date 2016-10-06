@@ -2,5 +2,6 @@
 
 - Mathieu TUDISCO,
 - Flore de Lasteyrie,
-- Antoine NICOLAS.
-- Cyril BIDARIYN,
+- Antoine NICOLAS,
+- Boubker EL KOUHENE,
+- Cyril BIDARIYN.
