@@ -2,4 +2,7 @@
 
 
 - Mathieu TUDISCO,
-- Antoine ALBIN.
+- Antoine ALBIN,
+- Flore de Lasteyrie.
+
+
