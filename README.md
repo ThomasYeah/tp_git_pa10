@@ -7,4 +7,6 @@
 - Guillaume LECOMTE,
 - Solal LUSSEYRAN,
 - Adrien FRIGERIO,
-- Cyril BIDARIYN.
+- Cyril BIDARIYN,
+- Corentin ÉGELÉ,
+- Yann STEPHAN.
