@@ -1,6 +1,7 @@
 # TP GIT PA10
 
-
 - Mathieu TUDISCO,
-- Flore de Lasteyrie.
-- Corentin Égelé
+- Flore de Lasteyrie,
+- Antoine NICOLAS,
+- Boubker EL KOUHENE,
+- Corentin Égelé.
