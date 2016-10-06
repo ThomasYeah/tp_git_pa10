@@ -1,4 +1,6 @@
 # TP GIT PA10
 
 
-- Mathieu TUDISCO !
+- Mathieu TUDISCO,
+
+- Thomas MICHEU.
