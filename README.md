@@ -8,4 +8,11 @@
 - Solal LUSSEYRAN,
 - Adrien FRIGERIO,
 - Cyril BIDARIYN,
+<<<<<<< HEAD
 - Adrien LEMAISTRE.
+=======
+- Corentin ÉGELÉ,
+- Yann STEPHAN,
+- Antoine ALBIN,
+
+>>>>>>> refs/remotes/am-pa10/master
