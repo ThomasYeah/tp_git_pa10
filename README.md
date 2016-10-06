@@ -1,8 +1,7 @@
 # TP GIT PA10
 
-
 - Mathieu TUDISCO,
-- Antoine ALBIN,
-- Flore de Lasteyrie.
-
+- Flore de Lasteyrie,
+- Antoine NICOLAS,
+- Antoine ALBIN.
 
