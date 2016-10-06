@@ -6,4 +6,5 @@
 - Boubker EL KOUHENE,
 - Guillaume LECOMTE,
 - Solal LUSSEYRAN,
-- Adrien FRIGERIO.
+- Adrien FRIGERIO,
+- Cyril BIDARIYN.
