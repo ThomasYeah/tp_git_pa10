@@ -3,6 +3,7 @@
 - Mathieu TUDISCO,
 - Flore de Lasteyrie,
 - Antoine NICOLAS,
-- Boubker EL KOUHENE.
+- Boubker EL KOUHENE,
+- Adrien LEMAISTRE
 
 
