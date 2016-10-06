@@ -5,5 +5,5 @@
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
 - Guillaume LECOMTE,
+- Solal LUSSEYRAN,
 - Antoine ALBIN.
-
