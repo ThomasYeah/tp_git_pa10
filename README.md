@@ -3,3 +3,4 @@
 
 - Mathieu TUDISCO,
 - Flore de Lasteyrie.
+- Corentin Égelé
