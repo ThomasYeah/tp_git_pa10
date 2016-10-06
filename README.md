@@ -4,5 +4,6 @@
 - Flore de Lasteyrie,
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
+- Guillaume LECOMTE,
 - Antoine ALBIN.
 
