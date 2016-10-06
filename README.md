@@ -4,6 +4,6 @@
 - Flore de Lasteyrie,
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
-- Adrien LEMAISTRE
+- Adrien LEMAISTRE.
 
 
