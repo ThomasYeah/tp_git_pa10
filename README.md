@@ -6,4 +6,6 @@
 - Boubker EL KOUHENE,
 - Guillaume LECOMTE,
 - Solal LUSSEYRAN,
+- Adrien FRIGERIO,
 - Antoine ALBIN.
+
