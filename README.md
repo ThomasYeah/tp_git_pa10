@@ -2,4 +2,5 @@
 
 - Mathieu TUDISCO,
 - Flore de Lasteyrie,
-- Antoine NICOLAS.
+- Antoine NICOLAs ,
+- Adrien LEMAISTRE .
