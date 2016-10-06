@@ -9,4 +9,6 @@
 - Adrien FRIGERIO,
 - Cyril BIDARIYN,
 - Corentin ÉGELÉ,
-- Yann STEPHAN.
+- Yann STEPHAN,
+- Antoine ALBIN.
+
