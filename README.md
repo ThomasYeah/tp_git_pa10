@@ -1,7 +1,14 @@
-# TP GIT PA10
+﻿# TP GIT PA10
 
 - Mathieu TUDISCO,
-- Flore de Lasteyrie,
+- Flore de LASTEYRIE,
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
-- Thomas MICHEU.
+- Guillaume LECOMTE,
+- Solal LUSSEYRAN,
+- Adrien FRIGERIO,
+- Cyril BIDARIYN,
+- Corentin ÉGELÉ,
+- Yann STEPHAN,
+- Antoine ALBIN,
+- Thomas MICHEU,
