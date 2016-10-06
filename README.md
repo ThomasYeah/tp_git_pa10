@@ -8,5 +8,7 @@
 - Solal LUSSEYRAN,
 - Adrien FRIGERIO,
 - Cyril BIDARIYN,
+- Corentin ÉGELÉ,
+- Yann STEPHAN,
 - Antoine ALBIN.
 
