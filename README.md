@@ -1,5 +1,6 @@
 # TP GIT PA10
 
-
-- Mathieu TUDISCO !
+- Mathieu TUDISCO,
+- Flore de Lasteyrie,
+- Antoine NICOLAS.
 - Cyril BIDARIYN,
