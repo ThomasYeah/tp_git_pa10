@@ -5,4 +5,5 @@
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
 - Guillaume LECOMTE,
-- Solal LUSSEYRAN.
+- Solal LUSSEYRAN,
+- Adrien FRIGERIO.
