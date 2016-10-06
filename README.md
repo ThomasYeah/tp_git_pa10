@@ -10,5 +10,5 @@
 - Cyril BIDARIYN,
 - Corentin ÉGELÉ,
 - Yann STEPHAN,
-- Antoine ALBIN.
+- Antoine ALBIN,
 
