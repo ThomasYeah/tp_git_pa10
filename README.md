@@ -5,4 +5,5 @@
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
 - Guillaume LECOMTE,
-- Corentin ÉGELÉ.
+- Solal LUSSEYRAN.
+- Corentin ÉGELÉ
